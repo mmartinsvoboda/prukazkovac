@@ -1,0 +1,40 @@
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita\Maturita\bin\Debug\Maturita.exe.config
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita\Maturita\bin\Debug\Maturita.exe
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita\Maturita\bin\Debug\Maturita.pdb
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita\Maturita\bin\Debug\cs-CZ\Maturita.resources.dll
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita\Maturita\obj\Debug\Maturita.csprojResolveAssemblyReference.cache
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita\Maturita\obj\Debug\Maturita.Průkazkovač.resources
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita\Maturita\obj\Debug\Maturita.Properties.Resources.resources
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita\Maturita\obj\Debug\Maturita.Průkazkovač.cs-CZ.resources
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita\Maturita\obj\Debug\Maturita.csproj.GenerateResource.Cache
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita\Maturita\obj\Debug\cs-CZ\Maturita.resources.dll
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita\Maturita\obj\Debug\Maturita.exe
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita\Maturita\obj\Debug\Maturita.pdb
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita\Maturita\obj\Debug\Maturita.csproj.ResolveComReference.cache
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita\Maturita\bin\Debug\PdfSharp.dll
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita\Maturita\bin\Debug\PdfSharp.pdb
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita\Maturita\bin\Debug\PdfSharp.xml
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita\Maturita\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\bin\Debug\Maturita.exe.config
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\obj\Debug\Maturita.csproj.ResolveComReference.cache
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\obj\Debug\Maturita.exe
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\obj\Debug\Maturita.pdb
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\bin\Debug\Maturita.exe
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\bin\Debug\Maturita.pdb
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\bin\Debug\cs-CZ\Maturita.resources.dll
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\bin\Debug\PdfSharp.dll
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\bin\Debug\PdfSharp.pdb
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\bin\Debug\PdfSharp.xml
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\obj\Debug\Maturita.Průkazkovač.resources
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\obj\Debug\Maturita.Properties.Resources.resources
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\obj\Debug\Maturita.Průkazkovač.cs-CZ.resources
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\obj\Debug\Maturita.csproj.GenerateResource.Cache
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\obj\Debug\cs-CZ\Maturita.resources.dll
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\bin\Debug\Ottawa.ttf
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\obj\Debug\Maturita.csprojResolveAssemblyReference.cache
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\obj\Debug\Maturita.TrustInfo.xml
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\bin\Debug\Maturita.exe.manifest
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\bin\Debug\Maturita.application
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\obj\Debug\Maturita.exe.manifest
+C:\Users\Svoby_000\Desktop\Maturitka!\Maturita - word\Maturita\obj\Debug\Maturita.application
